@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning C programming
 
 
-![Header](https://your-image-url.com)
+![Header](https://github.com/ShauryaAggarwal/my-repo/blob/main/header-image.png)
+
 
 # Shaurya Aggarwal
 
